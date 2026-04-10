@@ -1,7 +1,7 @@
 package main
 
 import (
-	"miniTrello/internal/app"
+	"minitrello/internal/app"
 )
 func main(){
 	app.Run()
