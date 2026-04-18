@@ -1,1 +1,1 @@
-Hello my name is Abdullah!!!
+##Hello, I'm studing Git and Github
