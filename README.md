@@ -1,2 +1,2 @@
 My frist Golang project
-Something went wrong/
+Something went wrong/ or no)
