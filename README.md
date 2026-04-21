@@ -1,1 +1,1 @@
-##Hello, I'm studing Git and Github
+My frist Golang project
