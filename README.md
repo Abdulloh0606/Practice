@@ -1,2 +1,2 @@
 My frist Golang project
-Something went wrong/ or no)
+Typing something for test
